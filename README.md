@@ -63,7 +63,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Problems%20Solved-42%20Total-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="Problems Solved" />
+        <img src="https://img.shields.io/badge/Problems%20Solved-60%20Total-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="Problems Solved" />
       </td>
     </tr>
     <tr>
