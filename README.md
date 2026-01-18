@@ -68,7 +68,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Coding%20Score-112-blue?style=for-the-badge&logo=geeksforgeeks" alt="Coding Score" />
+        <img src="https://img.shields.io/badge/Coding%20Score-160-blue?style=for-the-badge&logo=geeksforgeeks" alt="Coding Score" />
       </td>
     </tr>
     <tr>
